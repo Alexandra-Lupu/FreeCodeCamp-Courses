@@ -3,7 +3,7 @@
 This repository contains a collection of mini websites created as part of the **FreeCodeCamp - Responsive Web Design** course.
 
 ##  Live Previews
-
+- [CatPhotoApp](https://alexandra-lupu.github.io/FreeCodeCamp-Courses/cat-photo-app/)
 - [Building a Cafe Menu](https://alexandra-lupu.github.io/FreeCodeCamp-Courses/building-a-cafe-menu/)
 - [Building a set of colored markers](https://alexandra-lupu.github.io/FreeCodeCamp-Courses/building-a-set-of-colored-markers/)
 
